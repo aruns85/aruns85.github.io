@@ -106,28 +106,28 @@ projects:
 
       - title: O365 LDAP Connector
         link: "#"
-        tagline: "Design and Development of O365 LDAP Connector for Customers
-            Created a service that allowed customers to sync information stored in Azure to a LDAP server via APIs without the need for a on-prem server.
-            This Project involved a great deal of $$ for the Business.
-            1.  This involves Using Microsoft GRAPH APIs to sync from AZURE to Ldap.
+        tagline: "<br>Design and Development of O365 LDAP Connector for Customers.<br>
+            Created a service that allowed customers to sync information stored in Azure to a LDAP server via APIs without the need for a on-prem server.<br>
+            This Project involved a great deal of $$ for the Business.<br>
+            1.  This involves Using Microsoft GRAPH APIs to sync from AZURE to Ldap.<br>
             2.  There is a huge Business impact by Leverage the existing API setup in use today for MAR."
 
       - title: Design and Development of Supporting Email behind Load Balancers – The Start of Multitenancy
         link: "#"
-        tagline: "Today Competitors are moving ahead with Multitenant Solutions. So, it makes it very important to be in par with competition.
-            In order to achieve a Multitenant solution, the first phase is to eliminate the view that customers today have on the number of Email Security devices provided to them.
-            Business Impact is straight away in reducing the IPs as Public IPs will not be provided since, Proxy will be the one end point of all the Mail Connections.."
+        tagline: "<br>Today Competitors are moving ahead with Multitenant Solutions. So, it makes it very important to be in par with competition.<br>
+            In order to achieve a Multitenant solution, the first phase is to eliminate the view that customers today have on the number of Email Security devices provided to them.<br>
+            Business Impact is straight away in reducing the IPs as Public IPs will not be provided since, Proxy will be the one end point of all the Mail Connections.<br>"
 
       - title: Cloud Email Security on AWS
         link: "#"
-        tagline: "Involves Development and deployment of Email Security product on AWS and Cisco Cloud.
+        tagline: "<br>Involves Development and deployment of Email Security product on AWS and Cisco Cloud.<br>
             Email Security involves processing an email on different pipelines (Malware, Antivirus, Antispam, Filters) before delivering an Email to the Client."
 
       - title: Automated Evaluation for EVAL Customers
         link: "#"
-        tagline: "Eval Customers occupy more than 60% of the Customer Business today in CES.
-            Most of them are for a period of 45 Days. Thus, its very important to make a good Business Impact for the customers by providing quick Eval Accounts to be used within a very short duration of time.
-            This will increase Customer user experience and chances of converting Eval Accounts to Purchased.
+        tagline: "<br>Eval Customers occupy more than 60% of the Customer Business today in CES.<br>
+            Most of them are for a period of 45 Days. Thus, its very important to make a good Business Impact for the customers by providing quick Eval Accounts to be used within a very short duration of time.<br>
+            This will increase Customer user experience and chances of converting Eval Accounts to Purchased.<br>
             This involved Eliminating all the External Entities required today to get an Order processed in CES."
 
       - title: InfoSec Requirements for rolling out the Product
