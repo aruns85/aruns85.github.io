@@ -94,10 +94,11 @@ projects:
     assignments:
       - title: Re Architecture of Hosted Solution to adapt to Cloud Native Architecture
         link: "#hook"
-        tagline: "1.  Responsible in Designing Architecture for Ciscos Email Security Product.
-            2.  Moving to a Cloud native Architecture to work with APIs and to provide more flexibility in the architecture to handle more robust and performance driven model.
-            3.  Working with an API Gateway based model for communication between entities
-            4.  Use of Queueing Services (Kafka, RabbitMq) for Reporting and Log Processing and Integration with AUTH Service for Single point of Authentication."
+        tagline: "<br>
+            1.  Responsible in Designing Architecture for Ciscos Email Security Product.<br>
+            2.  Moving to a Cloud native Architecture to work with APIs and to provide more flexibility in the architecture to handle more robust and performance driven model.<br>
+            3.  Working with an API Gateway based model for communication between entities.<br>
+            4.  Use of Queueing Services (Kafka, RabbitMq) for Reporting and Log Processing and Integration with AUTH Service for Single point of Authentication.<br>"
 
       - title: Design of WorkFlow to Move all Cloud Ordering System under SFDC.
         link: "#"
