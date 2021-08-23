@@ -8,40 +8,35 @@ sidebar:
 
     # Profile information
     name: Arun S
-    tagline: Full Stack Developer
+    tagline: Software Engineer and a Full Stack Developer
     #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    email: arun.s85@gmail.com
+    phone: (0) +91 9986880427
+    #website: d.com #do not add http://
+    linkedin: arun-s-9244911b
+    github: aruns85
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    #pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
         level: Native
 
-      - idiom: French
+      - idiom: Hindi
         level: Professional
 
-      - idiom: Spanish
+      - idiom: Kannada
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Hiking, Adventure Sports
         link:
 
-      - item: Snowboarding
+      - item: Driving
         link:
 
       - item: Cooking
@@ -50,73 +45,56 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Currently Working as a Lead Developer in Cisco’s Cloud EMAIL Security Product.
+      Developed API automation framework using REST in Python/Django and Java Bean Rest Framework.
+      Working knowledge in python and Java and on Cloud Native principles developing on Micro Services.
+      Involved in Analyzing the Security Requirements for a Cisco Cloud Email Solution.
+      Previous work involves working for CISCOs FEMTO Multimode (LTE+3G) Solution with working knowledge on Protocol Development in C/C++.
+      Worked as Senior Engineer with Nokia Siemens Networks on RAN Solution.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Bachelors of Engineering in Computer Science
+      university: Nitte Institute of Technology
+      time: 2003 - 2007
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Developer
+      time: 2014 - Present
+      company: Cisco Systems
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          Currently working on development of Cisco’s Cloud EMAIL Security Product hosted on Multi Cloud. This involves hosting Cisco’s Email Security Solution on various Cloud platforms.
+          Experience in handling cloud development and driving it to deliver to customer.
+          Important Projects involved:
+            : Developing LDAP Connector for O365 Customers using Graph APIs.
+            : First Step of Multi Tenancy by moving Customers under Load Balancer.
+            : Features for hosting Cloud services through Internal Life Cycle management Tools.
+
+    - role: Lead Engineer
+      time: 2011 - 2014
+      company: Alethea Communications
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+
+    - role: Software Engineer
+      time: 2008 - 2011
+      company: Nokia Siemens Networks
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Protocols/Technologies: W-CDMA R99 CCH/DCH/HSPA – L2 protocols in UMTS.
+        Languages: C for TCI6482 processor.
+        Operating System: OSE, Chorus (rtos), Linux.
+        Responsibilities: Analysis, Documentation, Design, Development, Module testing
+        Tools: SVN, Clear case, Code Composer studio for TCI6482, TTCN, Net Hawk, Wire shark, EMIL for Debugging Logs, Cygwin.
+
+    - role: Software Engineer
+      time: 2007 - 2008
+      company: Global Edge Software
+      details: |
+        Protocols/Technologies: TCP/IP, SIP, Packet Cable Architecture – RTP/RTCP/RTCP.
+        Languages: C.
+        Operating System: Linux (2.6.20 kernel),Unix ,Slackware,Windows.
+        Responsibilities: Analysis, Documentation, Design, Development, Module testing
+        Tools: GCC, GDB, CVS, Make, Doxygen, Ctags, Ethereal/Wireshark, DMalloc, Valgrind.
+
 projects:
     title: Projects
     intro: >
@@ -124,47 +102,46 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Re Architecture of Hosted Solution to adapt to Cloud Native Architecture
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "1.  Responsible in Designing Architecture for Ciscos Email Security Product.
+            2.  Moving to a Cloud native Architecture to work with APIs and to provide more flexibility in the architecture to handle more robust and performance driven model.
+            3.  Working with an API Gateway based model for communication between entities
+            4.  Use of Queueing Services (Kafka, RabbitMq) for Reporting and Log Processing and Integration with AUTH Service for Single point of Authentication."
 
-      - title: DevStudio
+      - title: Design of WorkFlow to Move all Cloud Ordering System under SFDC.
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Design and Integrating APIs with Sales Force for Cisco Cloud Email ordering system."
 
-      - title: Tempo
+      - title: O365 LDAP Connector
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Design and Development of O365 LDAP Connector for Customers
+            Created a service that allowed customers to sync information stored in Azure to a LDAP server via APIs without the need for a on-prem server.
+            This Project involved a great deal of $$ for the Business.
+            1.  This involves Using Microsoft GRAPH APIs to sync from AZURE to Ldap.
+            2.  There is a huge Business impact by Leverage the existing API setup in use today for MAR."
 
-      - title: Atom
+      - title: Design and Development of Supporting Email behind Load Balancers – The Start of Multitenancy
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Today Competitors are moving ahead with Multitenant Solutions. So, it makes it very important to be in par with competition.
+            In order to achieve a Multitenant solution, the first phase is to eliminate the view that customers today have on the number of Email Security devices provided to them.
+            Business Impact is straight away in reducing the IPs as Public IPs will not be provided since, Proxy will be the one end point of all the Mail Connections.."
 
-      - title: Delta
+      - title: Cloud Email Security on AWS
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Involves Development and deployment of Email Security product on AWS and Cisco Cloud.
+            Email Security involves processing an email on different pipelines (Malware, Antivirus, Antispam, Filters) before delivering an Email to the Client."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
+      - title: Automated Evaluation for EVAL Customers
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        tagline: "Eval Customers occupy more than 60% of the Customer Business today in CES.
+            Most of them are for a period of 45 Days. Thus, its very important to make a good Business Impact for the customers by providing quick Eval Accounts to be used within a very short duration of time.
+            This will increase Customer user experience and chances of converting Eval Accounts to Purchased.
+            This involved Eliminating all the External Entities required today to get an Order processed in CES."
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: InfoSec Requirements for rolling out the Product
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "Analysis and Fixing of Security Vulneribilities for CES."
 
 skills:
     title: Skills &amp; Proficiency
