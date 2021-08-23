@@ -90,9 +90,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+        Here is a look into some of the important recent projects involved in.
     assignments:
       - title: Re Architecture of Hosted Solution to adapt to Cloud Native Architecture
         link: "#hook"
