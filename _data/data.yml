@@ -46,10 +46,10 @@ career-profile:
     title: Career Profile
     summary: |
       Currently Working as a Lead Developer in Cisco’s Cloud EMAIL Security Product.<br>
-      Developed API automation framework using REST in Python/Django and Java Bean Rest Framework.<br>
+      Developed API automation framework using REST in Python/Django and Java Bean Rest Framework.
       Working knowledge in python and Java and on Cloud Native principles developing on Micro Services.<br>
       Involved in Analyzing the Security Requirements for a Cisco Cloud Email Solution.<br>
-      Previous work involves working for CISCOs FEMTO Multimode (LTE+3G) Solution with working knowledge on Protocol Development in C/C++.<br>
+      Previous work involves working for CISCOs FEMTO Multimode (LTE+3G) Solution with working knowledge on Protocol Development in C/C++.
       Worked as Senior Engineer with Nokia Siemens Networks on RAN Solution.
 
 education:
@@ -65,7 +65,7 @@ experiences:
       details: |
           Currently working on development of Cisco’s Cloud EMAIL Security Product hosted on Multi Cloud. This involves hosting Cisco’s Email Security Solution on various Cloud platforms.
           Experience in handling cloud development and driving it to deliver to customer.
-          Important Projects involved:
+          Important Projects involved
             : Developing LDAP Connector for O365 Customers using Graph APIs.
             : First Step of Multi Tenancy by moving Customers under Load Balancer.
             : Features for hosting Cloud services through Internal Life Cycle management Tools.
@@ -74,6 +74,7 @@ experiences:
       time: 2011 - 2014
       company: Alethea Communications
       details: |
+        Working on 4G Protocol Stack development for Broadcoms UE Stack. Involved closely in RLC/RRC Layers.
 
     - role: Software Engineer
       time: 2008 - 2011
