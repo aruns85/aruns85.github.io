@@ -60,8 +60,9 @@ experiences:
           Currently working on development of Cisco’s Cloud EMAIL Security Product hosted on Multi Cloud. This involves hosting Cisco’s Email Security Solution on various Cloud platforms.
           Experience in handling cloud development and driving it to deliver to customer.
           Important Projects involved
+            : Highly scalable architecture design for web portal.
             : Developing LDAP Connector for O365 Customers using Graph APIs.
-            : First Step of Multi Tenancy by moving Customers under Load Balancer.
+            : Analysis and Creation of Architechture on Multi tenant system to move Customers under Load Balancer.
             : Features for hosting Cloud services through Internal Life Cycle management Tools.
 
     - role: Lead Engineer
