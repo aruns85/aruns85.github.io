@@ -46,11 +46,11 @@ career-profile:
     title: Career Profile
     summary: |
       Currently Working as a Lead Developer in Cisco’s Cloud EMAIL Security Product.
-      Developed API automation framework using REST in Python/Django and Java Bean Rest Framework.
-      Working knowledge in python and Java and on Cloud Native principles developing on Micro Services.
-      Involved in Analyzing the Security Requirements for a Cisco Cloud Email Solution.
-      Previous work involves working for CISCOs FEMTO Multimode (LTE+3G) Solution with working knowledge on Protocol Development in C/C++.
-      Worked as Senior Engineer with Nokia Siemens Networks on RAN Solution.
+      |Developed API automation framework using REST in Python/Django and Java Bean Rest Framework.
+      |Working knowledge in python and Java and on Cloud Native principles developing on Micro Services.
+      |Involved in Analyzing the Security Requirements for a Cisco Cloud Email Solution.
+      |Previous work involves working for CISCOs FEMTO Multimode (LTE+3G) Solution with working knowledge on Protocol Development in C/C++.
+      |Worked as Senior Engineer with Nokia Siemens Networks on RAN Solution.
 
 education:
     - degree: Bachelors of Engineering in Computer Science
