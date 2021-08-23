@@ -79,21 +79,12 @@ experiences:
       time: 2008 - 2011
       company: Nokia Siemens Networks
       details: |
-        Protocols/Technologies: W-CDMA R99 CCH/DCH/HSPA – L2 protocols in UMTS.
-        Languages: C for TCI6482 processor.
-        Operating System: OSE, Chorus (rtos), Linux.
-        Responsibilities: Analysis, Documentation, Design, Development, Module testing
-        Tools: SVN, Clear case, Code Composer studio for TCI6482, TTCN, Net Hawk, Wire shark, EMIL for Debugging Logs, Cygwin.
+        Working on 3G Protocal Stack Development for Nokias RAN System.
 
     - role: Software Engineer
       time: 2007 - 2008
       company: Global Edge Software
       details: |
-        Protocols/Technologies: TCP/IP, SIP, Packet Cable Architecture – RTP/RTCP/RTCP.
-        Languages: C.
-        Operating System: Linux (2.6.20 kernel),Unix ,Slackware,Windows.
-        Responsibilities: Analysis, Documentation, Design, Development, Module testing
-        Tools: GCC, GDB, CVS, Make, Doxygen, Ctags, Ethereal/Wireshark, DMalloc, Valgrind.
 
 projects:
     title: Projects
